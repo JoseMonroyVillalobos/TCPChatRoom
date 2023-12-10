@@ -25,9 +25,8 @@ Before you begin, ensure you have the following installed:
 - Python (version 3.9)
 
 
-## Installation
 
-## Usage
+## How to use
 Depending on you set up you can run the python files by simply clicking on them or you will have to naviagate within terminal to the directory that holds the server and client file and do the following:
 
 Start the server:
