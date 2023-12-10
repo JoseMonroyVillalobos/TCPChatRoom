@@ -46,9 +46,8 @@ Simply type your message and press Enter.
 
 Private Message:
 Use the format @recipient_name: your message to send a private message to a specific recipient.
-List Connected Clients:
 
-list active users:
+Display active users:
 Type /list to request a list of connected clients.
 
 Exit the Chat:
