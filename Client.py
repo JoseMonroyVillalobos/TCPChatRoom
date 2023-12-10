@@ -1,4 +1,3 @@
-#Client code:
 import threading
 import socket
 
