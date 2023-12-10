@@ -5,10 +5,10 @@ TCP Chat Room Terminal is a simple Python-based client-server chat application u
 
 ## Table of Contents
 
-- [Features]
-- [Prerequisites]
-- [Usage]
-- [Commands]
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [How to use](#How to use)
+- [Commands](#commands)
 
 
 ## Features
