@@ -7,7 +7,7 @@ TCP Chat Room Terminal is a simple Python-based client-server chat application u
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [How to use](#How to use)
+- [Usage](#Usage)
 - [Commands](#commands)
 
 
@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 
 
-## How to use
+## Usage
 Depending on you set up you can run the python files by simply clicking on them or you will have to naviagate within terminal to the directory that holds the server and client file and do the following:
 
 Start the server:
